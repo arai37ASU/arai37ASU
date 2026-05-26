@@ -1,7 +1,11 @@
 ## Hi, I’m Anshika Rai 👋  
 **Data Analytics | Business Intelligence | Consulting-Oriented Projects**
 
-I’m a Computer Science major with a minor in Data Science, focused on building **data-driven, real-world projects** that translate raw data into actionable insights.
+**Computer Science Graduate | M.S. Data Science, Analytics & Engineering Student | Data Analytics & Machine Learning**
+
+I recently graduated with a B.S. in Computer Science and a minor in Data Science from Arizona State University, and I am now pursuing my M.S. in Data Science, Analytics and Engineering.
+
+I am interested in applying data science, machine learning, and visualization techniques to real-world problems. My work focuses on turning raw data into clear insights through analysis, dashboards, predictive modeling, and software-based solutions.
 
 I’m especially interested in:
 - Data Analytics & Business Intelligence  
