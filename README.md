@@ -1,31 +1,65 @@
-## Hi, I’m Anshika Rai 👋  
-**Data Analytics | Business Intelligence | Consulting-Oriented Projects**
+# Hi, I’m Anshika Rai 👋
 
-**Computer Science Graduate | M.S. Data Science, Analytics & Engineering Student | Data Analytics & Machine Learning**
+### Computer Science Graduate Student | Software Engineering | AI/ML | Data Science
 
-I recently graduated with a B.S. in Computer Science and a minor in Data Science from Arizona State University, and I am now pursuing my M.S. in Data Science, Analytics and Engineering.
+I’m a Computer Science graduate student at Arizona State University with hands-on experience in software development, machine learning, data engineering, and technical systems.
 
-I am interested in applying data science, machine learning, and visualization techniques to real-world problems. My work focuses on turning raw data into clear insights through analysis, dashboards, predictive modeling, and software-based solutions.
+I enjoy building practical solutions that combine software, data, and emerging technologies — from machine learning pipelines and cloud-based data systems to mobile applications and API-driven products.
 
-I’m especially interested in:
-- Data Analytics & Business Intelligence  
-- SQL, Python, Tableau-based analysis  
-- Consulting-style case studies and impact-driven projects  
-- Accessibility, equity, and public-sector data problems  
+I’m currently interested in opportunities across:
 
----
-
-### 🛠️ Technical Skills
-- **Languages:** Python, SQL, JavaScript, Java, C/C++  
-- **Data & Analytics:** Pandas, NumPy, EDA, KPI analysis  
-- **Visualization:** Tableau, Matplotlib  
-- **Tools:** Git, GitHub, Jupyter Notebook  
-
-### 🤝 Let’s Connect
-- 📧 Email: **anshikaraii58@gmail.com**
-- 📍 Tempe, AZ  
-- 💼 Open to analytics, BI, and consulting-focused opportunities  
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Data Science & Data Engineering
+- Backend and API Development
 
 ---
 
-⭐ Feel free to explore my repositories or reach out if you’d like to collaborate.
+## 🛠 Technical Skills
+
+- **Programming:** Python, SQL, Java, JavaScript, Swift, Bash
+- **AI & Machine Learning:** scikit-learn, Pandas, NumPy, RAG, LLM APIs, CNN, Deep Learning, LangChain
+- **Application Development:** React.js, FastAPI, REST APIs, SwiftUI, Firebase, Firestore, MapKit
+- **Cloud, Databases & Tools:** AWS, PostgreSQL, TimescaleDB, Redis, Docker, Git/GitHub, pytest, Linux, macOS
+
+---
+
+## 🚀 Featured Projects
+
+### QuantStream — Market Data & Analytics Pipeline
+Built a historical market-data pipeline using Python, PostgreSQL/TimescaleDB, Docker, and AWS, with engineered financial indicators and automated testing.
+
+### SafeHer — iOS Safety Application
+Developed an iOS application using Swift, SwiftUI, Firebase Authentication, Firestore, MapKit, and Google Places API with real-time location and safety reporting.
+
+### Rainfall Prediction Model
+Built a machine learning pipeline on 10,000+ records and improved CatBoost ROC-AUC from 0.8817 to 0.8931 through feature engineering and model tuning.
+
+---
+
+## 💼 Experience Highlights
+
+- Developed Python automation and supported technical operations for 500+ faculty, staff, and students at Arizona State University.
+- Built responsive frontend components and integrated REST APIs during my Frontend Developer Internship at Qualaces — JobQue.ai.
+- Worked with ServiceNow, Workday, AWS-backed services, Firebase, GitHub, and data-driven workflows across academic and professional roles.
+
+---
+
+## 🎓 Education
+
+**M.S. Computer Science**  
+Arizona State University  
+GPA: 4.00/4.00  
+Fulton Schools Graduate Scholarship
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: arai37@asu.edu
+- 💼 LinkedIn: [linkedin.com/in/anshika-rai](https://linkedin.com/in/anshika-rai)
+- 📍 Tempe, AZ
+
+---
+
+⭐ Feel free to explore my repositories or reach out if you’d like to collaborate on software, AI/ML, or data-focused projects.
