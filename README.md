@@ -22,20 +22,6 @@ I’m currently interested in opportunities across:
 - **Application Development:** React.js, FastAPI, REST APIs, SwiftUI, Firebase, Firestore, MapKit
 - **Cloud, Databases & Tools:** AWS, PostgreSQL, TimescaleDB, Redis, Docker, Git/GitHub, pytest, Linux, macOS
 
----
-
-## 🚀 Featured Projects
-
-### QuantStream — Market Data & Analytics Pipeline
-Built a historical market-data pipeline using Python, PostgreSQL/TimescaleDB, Docker, and AWS, with engineered financial indicators and automated testing.
-
-### SafeHer — iOS Safety Application
-Developed an iOS application using Swift, SwiftUI, Firebase Authentication, Firestore, MapKit, and Google Places API with real-time location and safety reporting.
-
-### Rainfall Prediction Model
-Built a machine learning pipeline on 10,000+ records and improved CatBoost ROC-AUC from 0.8817 to 0.8931 through feature engineering and model tuning.
-
----
 
 ## 💼 Experience Highlights
 
