@@ -17,7 +17,7 @@ I’m currently interested in opportunities across:
 
 ## 🛠 Technical Skills
 
-- **Programming:** Python, SQL, Java, JavaScript, Swift, Bash
+- **Programming:** Python, Java, JavaScript, Swift, Bash
 - **AI & Machine Learning:** scikit-learn, Pandas, NumPy, RAG, LLM APIs, CNN, Deep Learning, LangChain
 - **Application Development:** React.js, FastAPI, REST APIs, SwiftUI, Firebase, Firestore, MapKit
 - **Cloud, Databases & Tools:** AWS, PostgreSQL, TimescaleDB, Redis, Docker, Git/GitHub, pytest, Linux, macOS
